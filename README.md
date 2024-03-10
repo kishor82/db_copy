@@ -23,13 +23,13 @@ The setup consists of the following services:
 1. Clone this repository:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/kishor82/db_copy.git
    ```
 
 2. Navigate to the cloned directory:
 
    ```bash
-   cd <repository_directory>
+   cd db_copy
    ```
 
 3. Start the Docker Compose services:
